@@ -1,0 +1,7 @@
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\CopyDirectoryRecursively\bin\Debug\CopyDirectoryRecursively.exe.config
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\CopyDirectoryRecursively\bin\Debug\CopyDirectoryRecursively.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\CopyDirectoryRecursively\bin\Debug\CopyDirectoryRecursively.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\CopyDirectoryRecursively\obj\Debug\CopyDirectoryRecursively.csproj.AssemblyReference.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\CopyDirectoryRecursively\obj\Debug\CopyDirectoryRecursively.csproj.CoreCompileInputs.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\CopyDirectoryRecursively\obj\Debug\CopyDirectoryRecursively.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\CopyDirectoryRecursively\obj\Debug\CopyDirectoryRecursively.pdb

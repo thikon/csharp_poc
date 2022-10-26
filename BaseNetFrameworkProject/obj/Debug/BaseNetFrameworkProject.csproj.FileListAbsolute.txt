@@ -1,0 +1,11 @@
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\obj\Debug\BaseNetFrameworkProject.csproj.AssemblyReference.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\obj\Debug\BaseNetFrameworkProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\obj\Debug\BaseNetFrameworkProject.csproj.CoreCompileInputs.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\bin\Debug\BaseNetFrameworkProject.exe.config
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\bin\Debug\BaseNetFrameworkProject.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\bin\Debug\BaseNetFrameworkProject.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\bin\Debug\BaseNetStandardProject.dll
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\bin\Debug\BaseNetStandardProject.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\obj\Debug\BaseNetFrameworkProject.csproj.CopyComplete
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\obj\Debug\BaseNetFrameworkProject.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetFrameworkProject\obj\Debug\BaseNetFrameworkProject.pdb

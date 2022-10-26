@@ -1,0 +1,8 @@
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\SwitchCaseSample\bin\Debug\SwitchCaseSample.exe.config
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\SwitchCaseSample\bin\Debug\SwitchCaseSample.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\SwitchCaseSample\bin\Debug\SwitchCaseSample.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\SwitchCaseSample\obj\Debug\SwitchCaseSample.csproj.AssemblyReference.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\SwitchCaseSample\obj\Debug\SwitchCaseSample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\SwitchCaseSample\obj\Debug\SwitchCaseSample.csproj.CoreCompileInputs.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\SwitchCaseSample\obj\Debug\SwitchCaseSample.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\SwitchCaseSample\obj\Debug\SwitchCaseSample.pdb

@@ -1,0 +1,14 @@
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\bin\Debug\wfreerdp.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\bin\Debug\config.rdp
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\bin\Debug\RdpLauncher.exe.config
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\bin\Debug\RdpLauncher.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\bin\Debug\RdpLauncher.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\bin\Debug\FreeRdpPoc.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\bin\Debug\FreeRdpPoc.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\bin\Debug\FreeRdpPoc.exe.config
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\obj\Debug\RdpLauncher.csproj.AssemblyReference.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\obj\Debug\RdpLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\obj\Debug\RdpLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\obj\Debug\RdpLauncher.csproj.CopyComplete
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\obj\Debug\RdpLauncher.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\RdpLauncher\obj\Debug\RdpLauncher.pdb

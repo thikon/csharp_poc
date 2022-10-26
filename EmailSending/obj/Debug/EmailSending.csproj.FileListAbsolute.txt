@@ -1,0 +1,8 @@
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\EmailSending\bin\Debug\EmailSending.exe.config
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\EmailSending\bin\Debug\EmailSending.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\EmailSending\bin\Debug\EmailSending.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\EmailSending\obj\Debug\EmailSending.csproj.AssemblyReference.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\EmailSending\obj\Debug\EmailSending.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\EmailSending\obj\Debug\EmailSending.csproj.CoreCompileInputs.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\EmailSending\obj\Debug\EmailSending.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\EmailSending\obj\Debug\EmailSending.pdb

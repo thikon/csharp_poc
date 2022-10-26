@@ -1,0 +1,8 @@
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\AsyncInvoker\bin\Debug\AsyncInvoker.exe.config
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\AsyncInvoker\bin\Debug\AsyncInvoker.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\AsyncInvoker\bin\Debug\AsyncInvoker.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\AsyncInvoker\obj\Debug\AsyncInvoker.csproj.AssemblyReference.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\AsyncInvoker\obj\Debug\AsyncInvoker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\AsyncInvoker\obj\Debug\AsyncInvoker.csproj.CoreCompileInputs.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\AsyncInvoker\obj\Debug\AsyncInvoker.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\AsyncInvoker\obj\Debug\AsyncInvoker.pdb

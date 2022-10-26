@@ -1,0 +1,10 @@
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\bin\Debug\netstandard2.1\BaseNetStandardProject.deps.json
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\bin\Debug\netstandard2.1\BaseNetStandardProject.dll
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\bin\Debug\netstandard2.1\BaseNetStandardProject.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\obj\Debug\netstandard2.1\BaseNetStandardProject.csproj.AssemblyReference.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\obj\Debug\netstandard2.1\BaseNetStandardProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\obj\Debug\netstandard2.1\BaseNetStandardProject.AssemblyInfoInputs.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\obj\Debug\netstandard2.1\BaseNetStandardProject.AssemblyInfo.cs
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\obj\Debug\netstandard2.1\BaseNetStandardProject.csproj.CoreCompileInputs.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\obj\Debug\netstandard2.1\BaseNetStandardProject.dll
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\BaseNetStandardProject\obj\Debug\netstandard2.1\BaseNetStandardProject.pdb

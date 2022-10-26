@@ -1,0 +1,10 @@
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\bin\Debug\wfreerdp.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\bin\Debug\config.rdp
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\bin\Debug\FreeRdpPoc.exe.config
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\bin\Debug\FreeRdpPoc.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\bin\Debug\FreeRdpPoc.pdb
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\obj\Debug\FreeRdpPoc.csproj.AssemblyReference.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\obj\Debug\FreeRdpPoc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\obj\Debug\FreeRdpPoc.csproj.CoreCompileInputs.cache
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\obj\Debug\FreeRdpPoc.exe
+C:\Users\Dew\Documents\MyPoc\LightworkPoc\FreeRdpPoc\obj\Debug\FreeRdpPoc.pdb
