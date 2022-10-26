@@ -16,9 +16,9 @@ namespace EmailSending
             int port = 587;
             string host = "smtp.gmail.com";
             string username = "developer@lightworkai.com";
-            string password = "Lightwork!@#";
+            string password = "";
             string mailFrom = "developer@lightworkai.com";
-            string mailTo = "thikon@gmail.com";
+            string mailTo = "";
             string mailTitle = "Testtitle";
             string mailMessage = "Testmessage";
 
